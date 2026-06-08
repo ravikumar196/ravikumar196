@@ -24,13 +24,14 @@ An insights-driven professional focused on transforming complex, unstructured co
 
 I organize my engineering work strictly by technical discipline. Explore my specialized project repositories below:
 
-* 🚀 **[Capstone-Projects](https://github.com/Ravikumar196/Capstone-Projects)** – High-impact, end-to-end data pipelines solving real-world corporate challenges.
-  * **Skills Applied:** SQL Database Architecture, Python Data Cleaning (Pandas/NumPy), Exploratory Data Analysis (EDA), Descriptive Statistics, Advanced Excel Modeling, and Power BI Executive Dashboards.
-* 🗄️ **[SQL-Projects](https://github.com/Ravikumar196/SQL-Projects)** – Advanced database manipulation, CTEs, window operations, and market segmentation models.
-* 📊 **[PowerBI-Projects](https://github.com/Ravikumar196/PowerBI-Projects)** – Production-grade star schemas, custom DAX metrics, and automated executive dashboards.
-* 📈 **[Tableau-Projects](https://github.com/Ravikumar196/Tableau-Projects)** – Visual storytelling, executive KPIs, and deep-dive demographic profiling.
-* 🐍 **[Python-Projects](https://github.com/Ravikumar196/Python-Projects)** – Automated data cleaning routines, Exploratory Data Analysis (EDA), and pipeline transformations.
-* 📗 **[Excel-Projects](https://github.com/Ravikumar196/Excel-Projects)** – Advanced corporate finance models, interactive operational dashboards, and dynamic pivot tables.
+| Repository & Link | Focus Business Value | Core Skills & Tools Applied |
+| :--- | :--- | :--- |
+| 🚀 **[Capstone-Projects](https://github.com/Ravikumar196/Capstone-Projects)** | End-to-end analytics pipelines for corporate challenges. | SQL, Python, Pandas, Power BI, Excel, Statistics |
+| 🗄️ **[SQL-Projects](https://github.com/Ravikumar196/SQL-Projects)** | Database querying, data extraction, and manipulation. | Joins, CTEs, Window Functions, Aggregate Queries |
+| 📊 **[PowerBI-Projects](https://github.com/Ravikumar196/PowerBI-Projects)** | Enterprise data modeling and interactive business dashboards. | Star Schemas, DAX Measures, Power Query, UI/UX |
+| 📈 **[Tableau-Projects](https://github.com/Ravikumar196/Tableau-Projects)** | Executive KPI tracking and interactive dynamic charts. | Calculated Fields, Custom Parameters, Storyboards |
+| 🐍 **[Python-Projects](https://github.com/Ravikumar196/Python-Projects)** | Automated data cleaning routines and exploratory analysis. | Pandas, NumPy, Jupyter Notebooks, Seaborn, Matplotlib |
+| 📗 **[Excel-Projects](https://github.com/Ravikumar196/Excel-Projects)** | Corporate financial models and live operational trackers. | XLOOKUP, INDEX-MATCH, Pivot Tables, Power Query, VBA |
 
 ---
 
