@@ -24,12 +24,13 @@ An insights-driven professional focused on transforming complex, unstructured co
 
 I organize my engineering work strictly by technical discipline. Explore my specialized project repositories below:
 
-* 📗 **[Excel-Projects](https://github.com/Ravikumar196/Excel-Projects)** – Advanced corporate finance models, interactive operational dashboards, and dynamic pivot tables.
-* 🐍 **[Python-Projects](https://github.com/Ravikumar196/Python-Projects)** – Automated data cleaning routines, Exploratory Data Analysis (EDA), and pipeline transformations.
+* 🚀 **[Capstone-Projects](https://github.com/Ravikumar196/Capstone-Projects)** – High-impact, end-to-end data pipelines solving real-world corporate challenges.
+  * **Skills Applied:** SQL Database Architecture, Python Data Cleaning (Pandas/NumPy), Exploratory Data Analysis (EDA), Descriptive Statistics, Advanced Excel Modeling, and Power BI Executive Dashboards.
 * 🗄️ **[SQL-Projects](https://github.com/Ravikumar196/SQL-Projects)** – Advanced database manipulation, CTEs, window operations, and market segmentation models.
 * 📊 **[PowerBI-Projects](https://github.com/Ravikumar196/PowerBI-Projects)** – Production-grade star schemas, custom DAX metrics, and automated executive dashboards.
 * 📈 **[Tableau-Projects](https://github.com/Ravikumar196/Tableau-Projects)** – Visual storytelling, executive KPIs, and deep-dive demographic profiling.
-* 🖥️ **[Looker-Studio-Projects](https://github.com/Ravikumar196/Looker-Studio-Projects)** – Live web-analytics tracking, cross-channel marketing dashboards, and cloud-connected reporting.
+* 🐍 **[Python-Projects](https://github.com/Ravikumar196/Python-Projects)** – Automated data cleaning routines, Exploratory Data Analysis (EDA), and pipeline transformations.
+* 📗 **[Excel-Projects](https://github.com/Ravikumar196/Excel-Projects)** – Advanced corporate finance models, interactive operational dashboards, and dynamic pivot tables.
 
 ---
 
