@@ -5,7 +5,7 @@ An insights-driven professional focused on transforming complex, unstructured co
 
 - 📈 **Core Objective:** Leveraging quantitative analysis, predictive workflows, and automated reporting to optimize business operations.
 - 🎯 **Target Roles:** Data Analyst, Business Analyst, MIS Executive, Reporting Analyst.
-- 💼 **Current Focus:** Building automated ETL pipelines and interactive visual scorecards.
+- 💼 **Current Focus:** Building automated ETL pipelines and interactive visual Dashboards.
 
 ---
 
