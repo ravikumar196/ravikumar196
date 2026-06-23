@@ -109,7 +109,7 @@ Ravikumar = {
 
 **Stack:** `SQL` `Power BI` `DAX` `Power Query`
 
-[📁 View Project →](https://github.com/Ravikumar196/PowerBI-Projects)
+[📁 View Project →](https://github.com/ravikumar196/PowerBI-Projects/tree/main/Pizza-Sales-Analysis)
 
 </td>
 </tr>
