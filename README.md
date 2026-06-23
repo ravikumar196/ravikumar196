@@ -4,7 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=F2C811&center=true&vCenter=true&width=750&height=45&lines=Turning+raw+data+into+executive+decisions+%F0%9F%93%8A;Power+BI+%7C+SQL+%7C+Python+%7C+Excel+Automation;Open+to+Data+Analyst+%26+MIS+roles+in+Delhi+NCR" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=0077B5&center=true&vCenter=true&width=750&height=45&lines=Turning+raw+data+into+executive+decisions+%F0%9F%93%8A;Power+BI+%7C+SQL+%7C+Python+%7C+Excel+Automation;Open+to+Data+Analyst+%26+MIS+roles+in+Delhi+NCR" alt="Typing SVG" />
+</div>
 
 <br/><br/>
 
