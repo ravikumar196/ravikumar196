@@ -24,16 +24,15 @@ An insights-driven professional focused on transforming complex, unstructured co
 
 I organize my engineering work strictly by technical discipline. Explore my specialized project repositories below:
 
-| Repository & Link | Focus Business Value | Core Skills & Tools Applied |
+| <div style="width:210px">Repository & Link</div> | Focus Business Value | Core Skills & Tools Applied |
 | :--- | :--- | :--- |
-| 🚀 **[Capstone-Projects](https://github.com/Ravikumar196/Capstone-Projects)** | End-to-end analytics pipelines for corporate challenges. | SQL, Python, Pandas, Power BI, Excel, Statistics |
-| 🗄️ **[SQL-Projects](https://github.com/Ravikumar196/SQL-Projects)** | Database querying, data extraction, and manipulation. | Joins, CTEs, Window Functions, Aggregate Queries |
-| 📊 **[PowerBI-Projects](https://github.com/Ravikumar196/PowerBI-Projects)** | Enterprise data modeling and interactive business dashboards. | Star Schemas, DAX Measures, Power Query, UI/UX |
-| 📈 **[Tableau-Projects](https://github.com/Ravikumar196/Tableau-Projects)** | Executive KPI tracking and interactive dynamic charts. | Calculated Fields, Custom Parameters, Storyboards |
-| 🐍 **[Python-Projects](https://github.com/Ravikumar196/Python-Projects)** | Automated data cleaning routines and exploratory analysis. | Pandas, NumPy, Jupyter Notebooks, Seaborn, Matplotlib |
-| 📗 **[Excel-Projects](https://github.com/Ravikumar196/Excel-Projects)** | Corporate financial models and live operational trackers. | XLOOKUP, INDEX-MATCH, Pivot Tables, Power Query, VBA |
-💡 **[LeetCode-Solutions](https://github.com/ravikumar196/LeetCode-Solutions/blob/main/README.md)** | Technical problem-solving, algorithmic efficiency, and query optimization. | SQL, Python, Pandas DataFrames |
-
+| 🚀&nbsp;**[Capstone‑Projects](https://github.com/Ravikumar196/Capstone-Projects)** | End-to-end analytics pipelines for corporate challenges. | SQL, Python, Pandas, Power BI, Excel, Statistics |
+| 🗄️&nbsp;**[SQL‑Projects](https://github.com/Ravikumar196/SQL-Projects)** | Database querying, data extraction, and manipulation. | Joins, CTEs, Window Functions, Aggregate Queries |
+| 📊&nbsp;**[PowerBI‑Projects](https://github.com/Ravikumar196/PowerBI-Projects)** | Enterprise data modeling and interactive business dashboards. | Star Schemas, DAX Measures, Power Query, UI/UX |
+| 📈&nbsp;**[Tableau‑Projects](https://github.com/Ravikumar196/Tableau-Projects)** | Executive KPI tracking and interactive dynamic charts. | Calculated Fields, Custom Parameters, Storyboards |
+| 🐍&nbsp;**[Python‑Projects](https://github.com/Ravikumar196/Python-Projects)** | Automated data cleaning routines and exploratory analysis. | Pandas, NumPy, Jupyter Notebooks, Seaborn, Matplotlib |
+| 📗&nbsp;**[Excel‑Projects](https://github.com/Ravikumar196/Excel-Projects)** | Corporate financial models and live operational trackers. | XLOOKUP, INDEX-MATCH, Pivot Tables, Power Query, VBA |
+| 💡&nbsp;**[LeetCode‑Solutions](https://github.com/ravikumar196/LeetCode-Solutions/blob/main/README.md)** | Technical problem-solving, algorithmic efficiency, and query optimization. | SQL, Python, Pandas DataFrames |
 ---
 
 ## 📜 Credentials & Documentation
