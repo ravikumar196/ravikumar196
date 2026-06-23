@@ -27,6 +27,10 @@
 <a href="mailto:itsravikumar8826@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://github.com/Ravikumar196/Certifications">
+  <img src="https://img.shields.io/badge/Certificates-View_All-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
+</a>
 
 </div>
 
@@ -183,6 +187,10 @@ Ravikumar = {
 &nbsp;
 <a href="https://ravikumar196.github.io">
   <img src="https://img.shields.io/badge/Portfolio-ravikumar196.github.io-00C853?style=for-the-badge&logo=github-pages&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Ravikumar196/Certifications">
+  <img src="https://img.shields.io/badge/Certificates-View_All-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </a>
 
 <br/><br/>
