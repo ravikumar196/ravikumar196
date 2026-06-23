@@ -95,7 +95,7 @@ Ravikumar = {
 
 **Stack:** `SQL` `Python` `Power BI` `Excel`
 
-[📁 View Project →](https://github.com/Ravikumar196/Capstone-Projects)
+[📁 View Project →](https://github.com/ravikumar196/Superstore_Marketing_Campaign_Analysis)
 
 </td>
 <td width="50%" valign="top">
