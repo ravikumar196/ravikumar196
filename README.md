@@ -125,13 +125,13 @@ Ravikumar = {
 
 | Repository | What's Inside | Core Stack |
 |:-----------|:--------------|:-----------|
-| 🚀 [Capstone-Projects](https://github.com/Ravikumar196/Capstone-Projects) | End-to-end business analytics pipelines for corporate challenges | SQL · Python · Power BI · Excel · Statistics |
-| 🗄️ [SQL-Projects](https://github.com/Ravikumar196/SQL-Projects) | Joins · CTEs · Window Functions · Aggregate Queries | MS SQL Server · MySQL · PostgreSQL |
-| 📊 [PowerBI-Projects](https://github.com/Ravikumar196/PowerBI-Projects) | Star schemas · DAX measures · Enterprise dashboards | Power BI · Power Query · UI/UX |
-| 📈 [Tableau-Projects](https://github.com/Ravikumar196/Tableau-Projects) | Executive KPI tracking · Interactive storyboards | Tableau · Calculated Fields · Parameters |
-| 🐍 [Python-Projects](https://github.com/Ravikumar196/Python-Projects) | Automated data cleaning · EDA · Visualisations | Pandas · NumPy · Seaborn · Matplotlib |
-| 📗 [Excel-Projects](https://github.com/Ravikumar196/Excel-Projects) | Financial models · Live operational trackers | XLOOKUP · INDEX-MATCH · Pivot Tables · VBA |
-| 💡 [LeetCode-Solutions](https://github.com/Ravikumar196/LeetCode-Solutions) | SQL & Python problem solving · Query optimisation | SQL · Python · Pandas DataFrames |
+| 🚀 [**Capstone-Projects**](https://github.com/Ravikumar196/Capstone-Projects) | End-to-end business analytics pipelines for corporate challenges | SQL · Python · Power BI · Excel · Statistics |
+| 🗄️ [**SQL-Projects**](https://github.com/Ravikumar196/SQL-Projects) | Joins · CTEs · Window Functions · Aggregate Queries | MS SQL Server · MySQL · PostgreSQL |
+| 📊 [**PowerBI-Projects**](https://github.com/Ravikumar196/PowerBI-Projects) | Star schemas · DAX measures · Enterprise dashboards | Power BI · Power Query · UI/UX |
+| 📈 [**Tableau-Projects**](https://github.com/Ravikumar196/Tableau-Projects) | Executive KPI tracking · Interactive storyboards | Tableau · Calculated Fields · Parameters |
+| 🐍 [**Python-Projects**](https://github.com/Ravikumar196/Python-Projects) | Automated data cleaning · EDA · Visualisations | Pandas · NumPy · Seaborn · Matplotlib |
+| 📗 [**Excel-Projects**](https://github.com/Ravikumar196/Excel-Projects) | Financial models · Live operational trackers | XLOOKUP · INDEX-MATCH · Pivot Tables · VBA |
+| 💡 [**LeetCode-Solutions**](https://github.com/Ravikumar196/LeetCode-Solutions) | SQL & Python problem solving · Query optimisation | SQL · Python · Pandas DataFrames |
 
 ---
 
