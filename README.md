@@ -32,6 +32,7 @@ I organize my engineering work strictly by technical discipline. Explore my spec
 | 📈 **[Tableau-Projects](https://github.com/Ravikumar196/Tableau-Projects)** | Executive KPI tracking and interactive dynamic charts. | Calculated Fields, Custom Parameters, Storyboards |
 | 🐍 **[Python-Projects](https://github.com/Ravikumar196/Python-Projects)** | Automated data cleaning routines and exploratory analysis. | Pandas, NumPy, Jupyter Notebooks, Seaborn, Matplotlib |
 | 📗 **[Excel-Projects](https://github.com/Ravikumar196/Excel-Projects)** | Corporate financial models and live operational trackers. | XLOOKUP, INDEX-MATCH, Pivot Tables, Power Query, VBA |
+💡 **[LeetCode-Practice](https://github.com/Ravikumar196/LeetCode-Practice)** | Technical problem-solving, algorithmic efficiency, and query optimization. | SQL, Python, Pandas DataFrames |
 
 ---
 
