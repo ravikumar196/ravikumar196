@@ -1,49 +1,190 @@
-# Hi, I'm Ravikumar 👋 (Ravikumar196)
-### Data Analyst | Business Analyst | MIS & Reporting Specialist
+<div align="center">
 
-An insights-driven professional focused on transforming complex, unstructured corporate data into clear, actionable executive solutions. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F2C811&height=120&section=header&text=Ravi%20Kumar&fontSize=42&fontColor=0d1117&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20MIS%20Specialist&descSize=16&descAlignY=60&descFontColor=0d1117" />
 
-- 📈 **Core Objective:** Leveraging quantitative analysis, predictive workflows, and automated reporting to optimize business operations.
-- 🎯 **Target Roles:** Data Analyst, Business Analyst, MIS Executive, Reporting Analyst.
-- 💼 **Current Focus:** Building automated ETL pipelines and interactive visual Dashboards.
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=F2C811&center=true&vCenter=true&width=750&height=45&lines=Turning+raw+data+into+executive+decisions+%F0%9F%93%8A;Power+BI+%7C+SQL+%7C+Python+%7C+Excel+Automation;Open+to+Data+Analyst+%26+MIS+roles+in+Delhi+NCR" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ravikumar196&label=Profile+Views&color=F2C811&style=flat-square" />
+&nbsp;
+<a href="https://github.com/Ravikumar196?tab=followers">
+  <img src="https://img.shields.io/github/followers/Ravikumar196?label=Followers&style=flat-square&color=F2C811" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ravi-kumar-13b322236">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://ravikumar196.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Live-00C853?style=flat-square&logo=github-pages&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:itsravikumar8826@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Analytical Tooling
+## 🧭 Who I Am
 
-| Domain | Systems & Frameworks |
-| :--- | :--- |
-| **Databases / Querying** | SQL (MS SQL Server, MySQL, PostgreSQL) |
-| **Programming & Statistics** | Python (Pandas, NumPy, Matplotlib, Seaborn), Descriptive Statistics |
-| **Business Intelligence** | Power BI, Tableau Desktop, **Looker Studio** |
-| **Spreadsheet Engineering** | Advanced Excel (Power Query, DAX, VBA), **Google Sheets (App Script, Advanced Formulas)** |
+```python
+ravi = {
+    "role"       : ["Data Analyst", "MIS Executive", "Power BI Developer"],
+    "location"   : "Delhi NCR, India 📍",
+    "experience" : "Power BI & MIS Developer @ CollegeDunia",
+    "education"  : "BBA Marketing · IIMT College of Management (AKTU)",
+    "core_skills": ["Power BI & DAX", "SQL (Window Functions, CTEs)",
+                    "Python (Pandas, EDA)", "Advanced Excel & Power Query"],
+    "objective"  : "Transform unstructured corporate data → actionable executive insights",
+    "open_to"    : "Data Analyst · Business Analyst · MIS Executive · Reporting Analyst",
+    "email"      : "itsravikumar8826@gmail.com"
+}
+```
+
+> 💡 *I bring a rare edge — a BBA Marketing background combined with hands-on data engineering. I understand the business question **before** I touch the data.*
 
 ---
 
-## 🚀 Key Analytics Repositories
+## 🛠️ Analytical Toolbox
 
-I organize my engineering work strictly by technical discipline. Explore my specialized project repositories below:
+### 📊 Business Intelligence & Reporting
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-| <div style="width:210px">Repository & Link</div> | Focus Business Value | Core Skills & Tools Applied |
-| :--- | :--- | :--- |
-| 🚀&nbsp;**[Capstone‑Projects](https://github.com/Ravikumar196/Capstone-Projects)** | End-to-end analytics pipelines for corporate challenges. | SQL, Python, Pandas, Power BI, Excel, Statistics |
-| 🗄️&nbsp;**[SQL‑Projects](https://github.com/Ravikumar196/SQL-Projects)** | Database querying, data extraction, and manipulation. | Joins, CTEs, Window Functions, Aggregate Queries |
-| 📊&nbsp;**[PowerBI‑Projects](https://github.com/Ravikumar196/PowerBI-Projects)** | Enterprise data modeling and interactive business dashboards. | Star Schemas, DAX Measures, Power Query, UI/UX |
-| 📈&nbsp;**[Tableau‑Projects](https://github.com/Ravikumar196/Tableau-Projects)** | Executive KPI tracking and interactive dynamic charts. | Calculated Fields, Custom Parameters, Storyboards |
-| 🐍&nbsp;**[Python‑Projects](https://github.com/Ravikumar196/Python-Projects)** | Automated data cleaning routines and exploratory analysis. | Pandas, NumPy, Jupyter Notebooks, Seaborn, Matplotlib |
-| 📗&nbsp;**[Excel‑Projects](https://github.com/Ravikumar196/Excel-Projects)** | Corporate financial models and live operational trackers. | XLOOKUP, INDEX-MATCH, Pivot Tables, Power Query, VBA |
-| 💡&nbsp;**[LeetCode‑Solutions](https://github.com/ravikumar196/LeetCode-Solutions/blob/main/README.md)** | Technical problem-solving, algorithmic efficiency, and query optimization. | SQL, Python, Pandas DataFrames |
+### 🗄️ SQL & Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🐍 Python & Data Science
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-43853D?style=for-the-badge&logo=python&logoColor=white)
+
+### 📗 Spreadsheet Engineering
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA_Macros-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Superstore Gold Membership
+**Campaign Analysis · Capstone Project**
+
+- Segmented 10,000+ customer records to identify high-value membership conversion targets
+- Built a **3-page Power BI report** with star schema & 15+ DAX measures
+- Delivered executive summary with data-backed campaign recommendations
+
+**Stack:** `SQL` `Python` `Power BI` `Excel`
+
+[📁 View Project →](https://github.com/Ravikumar196/Capstone-Projects)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍕 Pizza Sales Dashboard
+**Sales Analytics · Power BI + SQL**
+
+- Analysed 48,000+ orders across pizza categories, sizes & time periods
+- Built KPI dashboard tracking **Revenue, Order Volume & Best/Worst Sellers**
+- Used SQL for data extraction & Power BI for interactive visual reporting
+
+**Stack:** `SQL` `Power BI` `DAX` `Power Query`
+
+[📁 View Project →](https://github.com/Ravikumar196/PowerBI-Projects)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📁 Repository Index
+
+| Repository | What's Inside | Core Stack |
+|:-----------|:--------------|:-----------|
+| 🚀 [Capstone-Projects](https://github.com/Ravikumar196/Capstone-Projects) | End-to-end business analytics pipelines for corporate challenges | SQL · Python · Power BI · Excel · Statistics |
+| 🗄️ [SQL-Projects](https://github.com/Ravikumar196/SQL-Projects) | Joins · CTEs · Window Functions · Aggregate Queries | MS SQL Server · MySQL · PostgreSQL |
+| 📊 [PowerBI-Projects](https://github.com/Ravikumar196/PowerBI-Projects) | Star schemas · DAX measures · Enterprise dashboards | Power BI · Power Query · UI/UX |
+| 📈 [Tableau-Projects](https://github.com/Ravikumar196/Tableau-Projects) | Executive KPI tracking · Interactive storyboards | Tableau · Calculated Fields · Parameters |
+| 🐍 [Python-Projects](https://github.com/Ravikumar196/Python-Projects) | Automated data cleaning · EDA · Visualisations | Pandas · NumPy · Seaborn · Matplotlib |
+| 📗 [Excel-Projects](https://github.com/Ravikumar196/Excel-Projects) | Financial models · Live operational trackers | XLOOKUP · INDEX-MATCH · Pivot Tables · VBA |
+| 💡 [LeetCode-Solutions](https://github.com/Ravikumar196/LeetCode-Solutions) | SQL & Python problem solving · Query optimisation | SQL · Python · Pandas DataFrames |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravikumar196&show_icons=true&theme=github_dark&hide_border=true&title_color=F2C811&icon_color=F2C811&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar196&layout=compact&theme=github_dark&hide_border=true&title_color=F2C811&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ravikumar196&theme=github-dark-blue&hide_border=true&ring=F2C811&fire=F2C811&currStreakLabel=F2C811&sideLabels=c9d1d9&dates=888888" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ravikumar196&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</div>
+
 ---
 
 ## 📜 Credentials & Documentation
 
-* 🎓 **[Certifications Repository](https://github.com/Ravikumar196/Certifications)** – Verified professional credentials across Excel, SQL, Python, and Power BI.
-* 📄 **[Resume Repository](https://github.com/Ravikumar196/Resume)** – Access my latest ATS-optimized Resume and Cover Letter (PDF formats).
+| Type | Link | Covers |
+|:-----|:-----|:-------|
+| 🎓 Certifications | [Certifications Repository →](https://github.com/Ravikumar196/Certifications) | Excel · SQL · Python · Power BI |
+| 📄 Resume | [Resume Repository →](https://github.com/Ravikumar196/Resume) | ATS-optimised resume + Cover Letter (PDF) |
+| 🌐 Portfolio | [ravikumar196.github.io →](https://ravikumar196.github.io) | Live project portfolio |
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-* **Email:** itsravikumar8826@gmail.com
-* **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url)](https://www.linkedin.com/in/ravi-kumar-13b322236)
-* **Personal Portfolio:** [https://ravikumar196.github.io](https://ravikumar196.github.io)
+### 💬 Open to Data Analyst Roles — Delhi NCR & Remote
+
+**Data Analyst · Business Analyst · MIS Executive · Reporting Analyst**
+
+<br/>
+
+<a href="https://linkedin.com/in/ravi-kumar-13b322236">
+  <img src="https://img.shields.io/badge/LinkedIn-Ravi_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:itsravikumar8826@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-itsravikumar8826@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://ravikumar196.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-ravikumar196.github.io-00C853?style=for-the-badge&logo=github-pages&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F2C811&height=80&section=footer" />
+
+</div>
