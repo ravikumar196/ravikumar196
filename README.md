@@ -33,7 +33,7 @@
 ## 🧭 Who I Am
 
 ```python
-ravi = {
+Ravikumar = {
     "role"       : ["Data Analyst", "MIS Executive", "Power BI Developer"],
     "location"   : "Delhi NCR, India 📍",
     "experience" : "Power BI & MIS Developer @ CollegeDunia",
