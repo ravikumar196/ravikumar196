@@ -59,6 +59,16 @@ Ravikumar = {
 ## 🛠️ Analytical Toolbox
 
 ### 📊 Business Intelligence & Reporting
+
+<p align="left">
+  <!-- Power BI -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" height="40" alt="Power BI" title="Power BI" style="margin-right: 15px;" />
+  <!-- Tableau -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" height="40" alt="Tableau" title="Tableau" style="margin-right: 15px;" />
+  <!-- Looker Studio -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/looker.svg" height="40" alt="Looker Studio" title="Looker Studio" />
+</p>
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -66,11 +76,35 @@ Ravikumar = {
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🗄️ SQL & Databases
+
+<p align="left">
+  <!-- SQL Server -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" height="40" alt="Microsoft SQL Server" title="Microsoft SQL Server" style="margin-right: 15px;" />
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="40" alt="MySQL" title="MySQL" style="margin-right: 15px;" />
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+</p>
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🐍 Python & Data Science
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40" alt="Python" title="Python" style="margin-right: 15px;" />
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" height="40" alt="Pandas" title="Pandas" style="margin-right: 15px;" />
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" height="40" alt="NumPy" title="NumPy" style="margin-right: 15px;" />
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" title="Matplotlib" style="margin-right: 15px;" />
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.png" height="40" alt="Seaborn" title="Seaborn" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -78,6 +112,16 @@ Ravikumar = {
 ![Seaborn](https://img.shields.io/badge/Seaborn-43853D?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📗 Spreadsheet Engineering
+
+<p align="left">
+  <!-- Advanced Excel -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" height="40" alt="Advanced Excel" title="Advanced Excel" style="margin-right: 15px;" />
+  <!-- Google Sheets -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlesheets.svg" height="40" alt="Google Sheets" title="Google Sheets" style="margin-right: 15px;" />
+  <!-- VBA Macros -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudio.svg" height="40" alt="VBA Macros" title="VBA Macros" />
+</p>
+
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA_Macros-217346?style=for-the-badge&logo=microsoft&logoColor=white)
