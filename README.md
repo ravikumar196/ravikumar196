@@ -10,10 +10,10 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ravikumar196&label=Profile+Views&color=F2C811&style=flat-square&logo=thumbsup" />
+<img src="https://komarev.com/ghpvc/?username=Ravikumar196&label=Profile+Views&color=F2C900&style=flat-square&logo=thumbsup" />
 &nbsp;
 <a href="https://github.com/Ravikumar196?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ravikumar196?label=Followers&style=flat-square&color=F2C811" />
+  <img src="https://img.shields.io/github/followers/Ravikumar196?label=Followers&style=flat-square&color=F2C900" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/ravi-kumar-13b322236">
@@ -56,18 +56,15 @@ Ravikumar = {
 
 ---
 
+## Skills
+
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" title="Matplotlib" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.png" height="40" alt="Seaborn" title="Seaborn" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="Microsoft SQL Server" title="Microsoft SQL Server" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" title="Power BI" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" height="40" alt="Tableau" title="Tableau" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/looker.svg" height="40" alt="Looker Studio" title="Looker Studio" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="Advanced Excel" title="Advanced Excel" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" height="40" alt="Google Sheets" title="Google Sheets" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="VBA Macros" title="VBA Macros" /></p>
+
+---
+
 ## 🛠️ Analytical Toolbox
 
 ### 📊 Business Intelligence & Reporting
-
-<p align="left">
-  <!-- Power BI -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" height="40" alt="Power BI" title="Power BI" style="margin-right: 15px;" />
-  <!-- Tableau -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" height="40" alt="Tableau" title="Tableau" style="margin-right: 15px;" />
-  <!-- Looker Studio -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/looker.svg" height="40" alt="Looker Studio" title="Looker Studio" />
-</p>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -77,33 +74,11 @@ Ravikumar = {
 
 ### 🗄️ SQL & Databases
 
-<p align="left">
-  <!-- SQL Server -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" height="40" alt="Microsoft SQL Server" title="Microsoft SQL Server" style="margin-right: 15px;" />
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="40" alt="MySQL" title="MySQL" style="margin-right: 15px;" />
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-</p>
-
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🐍 Python & Data Science
-
-<p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40" alt="Python" title="Python" style="margin-right: 15px;" />
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" height="40" alt="Pandas" title="Pandas" style="margin-right: 15px;" />
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" height="40" alt="NumPy" title="NumPy" style="margin-right: 15px;" />
-  <!-- Matplotlib -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" title="Matplotlib" style="margin-right: 15px;" />
-  <!-- Seaborn -->
-  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.png" height="40" alt="Seaborn" title="Seaborn" />
-</p>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -112,15 +87,6 @@ Ravikumar = {
 ![Seaborn](https://img.shields.io/badge/Seaborn-43853D?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📗 Spreadsheet Engineering
-
-<p align="left">
-  <!-- Advanced Excel -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" height="40" alt="Advanced Excel" title="Advanced Excel" style="margin-right: 15px;" />
-  <!-- Google Sheets -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlesheets.svg" height="40" alt="Google Sheets" title="Google Sheets" style="margin-right: 15px;" />
-  <!-- VBA Macros -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudio.svg" height="40" alt="VBA Macros" title="VBA Macros" />
-</p>
 
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
