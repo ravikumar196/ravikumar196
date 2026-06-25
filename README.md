@@ -9,8 +9,7 @@
 </div>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ravikumar196&label=Profile+Views&color=F2C900&style=flat-square&logo=thumbsup" />
+<img src="https://komarev.com/ghpvc/?username=Ravikumar196&label=Profile+Views&color=F2C900&style=flat-square&logo=thumbsup&page_id=ravikumar196.external" />
 &nbsp;
 <a href="https://github.com/Ravikumar196?tab=followers">
   <img src="https://img.shields.io/github/followers/Ravikumar196?label=Followers&style=flat-square&color=F2C900" />
