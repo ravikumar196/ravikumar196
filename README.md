@@ -42,7 +42,7 @@ Ravikumar = {
     "role"       : ["Data Analyst", "MIS Executive", "Power BI Developer"],
     "location"   : "Delhi NCR, India 📍",
     "experience" : "Power BI & MIS Developer @ CollegeDunia",
-    "education"  : "BBA Marketing · IIMT College of Management (AKTU)",
+    "education"  : "BBA Marketing · IIMT College of Management",
     "core_skills": ["Power BI & DAX", "SQL (Window Functions, CTEs)",
                     "Python (Pandas, EDA)", "Advanced Excel & Power Query"],
     "objective"  : "Transform unstructured corporate data → actionable executive insights",
